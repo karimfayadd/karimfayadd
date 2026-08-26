@@ -20,16 +20,22 @@ Arabic · English · French
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[s1mple](https://github.com/karimfayadd/s1mple)**  
 Reconnaissance engine. HTTP fingerprinting, secret discovery, asset mapping. Stdout stays pipe-clean.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[albatoul](https://github.com/karimfayadd/albatoul)**  
 Native Windows vulnerability scanner. CVE catalog, hunters, desktop reports.
+
+</td>
+<td width="33%" valign="top">
+
+**[4100](https://github.com/karimfayadd/4100)**  
+Bug bounty proxy rotator. Load proxies, keep live exits, lock scope, rotate IPs for Albatoul and other scanners.
 
 </td>
 </tr>
