@@ -61,7 +61,3 @@ Telegram signal-to-MT5 auto-trader for Windows. Monitors signal channels, back-t
 </tr>
 </table>
 
-## Write-ups
-
-[leb_chaos (Hard)](https://github.com/karimfayadd/leb_chaos-writeup) · [Archangel](https://tryhackme.com/room/archangel) · [Armageddon2R](https://tryhackme.com/room/armageddon2r) · [Athena](https://tryhackme.com/room/4th3n4) · Borderlands · [CCT2019](https://tryhackme.com/room/cct2019) · [Crocc Crew](https://tryhackme.com/room/crocccrew) · [Cypheron](https://tryhackme.com/room/cypheron) · [Enterprise](https://tryhackme.com/room/enterprise) · [Frosteau Busy with Vim](https://tryhackme.com/room/busyvimfrosteau) · Management Wants a Word · Plant Photographer · [Retro](https://tryhackme.com/room/retro) · Scheme Catcher · SQHell · Surfing Yeti · That's The Ticket · [Theseus](https://tryhackme.com/room/theseus) · [You're in a Cave](https://tryhackme.com/room/inacave)
-
