@@ -39,6 +39,30 @@ Bug bounty proxy rotator. Load proxies, keep live exits, lock scope, rotate IPs 
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+**[Eliya](https://github.com/karimfayadd/Eliya)**  
+Live network asset intelligence. ARP scan, passive MITM, DNS spoofing, full HTTP interception, and per-device traffic monitor — interactive graph dashboard in the browser.
+
+</td>
+<td width="33%" valign="top">
+
+**[MrR0b0t](https://github.com/karimfayadd/MrR0b0t)**  
+Elite AI agent for red team operators and bug bounty hunters. Works with any AI API.
+
+</td>
+<td width="33%" valign="top">
+
+**[pro-trade-v1](https://github.com/karimfayadd/pro-trade-v1)**  
+Telegram signal-to-MT5 auto-trader for Windows. Monitors signal channels, back-tests them, and executes trades automatically.
+
+</td>
+</tr>
 </table>
 
 Hands-on practice on TryHackMe, Hack The Box, and CTF competitions — offensive pentesting, red team, and SOC paths.
+
+## Write-ups
+
+[leb_chaos — TryHackMe (Hard)](https://github.com/karimfayadd/leb_chaos-writeup)
